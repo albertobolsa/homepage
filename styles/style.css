@@ -1,0 +1,30 @@
+body {
+	background-image: url("assets/curls.png");
+	background-color: #cccccc;
+	
+	font-family: 'Exo 2', sans-serif;
+	
+	/*font-size: 40px;
+	font-weight: 400;
+	font-style: normal;
+    color: #fff;*/
+	margin: 20px;
+}
+
+.header {
+	color: #fff;
+	margin-bottom: 20px;
+}
+
+.card-deck {
+	margin-bottom: 10px;
+}
+
+.cert-img-wrapper {
+	margin-right: 20px;
+}
+
+.cert-img-wrapper img {
+	display: inline-block;
+	vertical-align:top;
+}
